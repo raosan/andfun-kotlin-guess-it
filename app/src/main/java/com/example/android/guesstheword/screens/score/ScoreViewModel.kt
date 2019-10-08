@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+package com.example.android.guesstheword.screens.score
+
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
